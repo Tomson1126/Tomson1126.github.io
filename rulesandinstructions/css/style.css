@@ -1,0 +1,17 @@
+body {
+  background:url("http://www.pptgrounds.com/wp-content/uploads/2013/09/Seamless-Dirt-Texture-Backgrounds.jpg");font-family: 'Gloria Hallelujah', cursive;
+  background-size: cover;
+}
+
+.instructions {
+  color: yellow;
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+}
+.InstructionTitle {
+  color:Blue;
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+}
